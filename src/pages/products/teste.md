@@ -5,7 +5,7 @@ description: lorem-ipsum
 price: '12'
 order: 0
 section: Store
-featured: false
+featured: true
 template: product
 ---
 ## Lorem ipsum
